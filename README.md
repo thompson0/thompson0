@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Thompson I'm  from São Paulo Brazil, I've been programming since 2018<br><br>- 📚 I'm currently learning all the programming languages ​​that I put down</p>
+<p align="left">My name is Gabriel Thompson I'm  from São Paulo Brazil, I've been programming since 2022<br><br>- 📚 I'm currently learning all the programming languages ​​that I put down</p>
 
 ###
 
