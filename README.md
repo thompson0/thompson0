@@ -1,15 +1,20 @@
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+  My name is <strong>Gabriel Thompson</strong>, I'm from <strong>São Paulo, Brazil</strong> 🇧🇷.<br>
+  I've been programming since <strong>2022</strong> and I’m always exploring new technologies.<br><br>
+  - 📚 Currently learning multiple programming languages listed below.<br>
+  - 🛡 Passionate about <strong>Cybersecurity</strong>.<br>
+  - 🔗 TryHackMe: <a href="https://tryhackme.com/p/champao" target="_blank">champao</a>
+</p>
 
 ###
 
-<p align="left">My name is Gabriel Thompson I'm  from São Paulo Brazil, I've been programming since 2022<br><br>- 📚 I'm currently learning all the programming languages ​​that I put down</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -31,10 +36,7 @@
 
 ###
 
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
