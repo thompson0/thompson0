@@ -5,7 +5,6 @@
 ###
 
 <p align="left">
-  My name is <strong>Gabriel Thompson</strong>, I'm from <strong>São Paulo, Brazil</strong> 🇧🇷.<br>
   I've been programming since <strong>2022</strong> and I’m always exploring new technologies.<br><br>
   - 📚 Currently learning multiple programming languages listed below.<br>
   - 🛡 Passionate about <strong>Cybersecurity</strong>.<br>
