@@ -1,8 +1,16 @@
 <h1 align="center">Back-end | CyberSecurity</h1>
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/9xxyQRtGW4gAAAAd/makima-chainsaw-man.gif" width="500" alt="Makima - Chainsaw Man" />
+</div>
+
 ###
 
-<h2 align="left">'i ve been programming since 2022 and I’m always exploring new technologies.<br><br>- 📚 Currently learning multiple programming languages and technologies listed below.<br>- 🛡 Passionate about Cybersecurity.</h2>
+<h2 align="left">
+  I've been programming since 2022 and I’m always exploring new technologies.<br><br>
+  - 📚 Currently learning multiple programming languages and technologies listed below.<br>
+  - 🛡 Passionate about Cybersecurity.
+</h2>
 
 ###
 
