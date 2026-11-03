@@ -1,51 +1,42 @@
-<h1 align="center">Back-end | CyberSecurity</h1>
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=F5C542&center=true&vCenter=true&width=600&lines=%24+whoami;Back-end+%7C+CyberSecurity;coding+since+2022" alt="Back-end | CyberSecurity" />
+  <br>
   <img src="https://media1.tenor.com/m/9xxyQRtGW4gAAAAd/makima-chainsaw-man.gif" width="500" alt="Makima - Chainsaw Man" />
 </div>
 
-###
+```console
+thompson@github:~$ neofetch
+       .--.         thompson@github
+      |o_o |        ---------------
+      |:_/ |        role      Back-end | CyberSecurity
+     //   \ \       os        Kali GNU/Linux
+    (|     | )      edu       FIAP
+   /'\_   _/`\      loc       São Paulo, BR
+   \___)=(___/      uptime    coding since 2022
+                    langs     Python, Go, JavaScript
+                    back      Node.js, Express
+                    data      PostgreSQL, MongoDB, Prisma
+                    ops       Docker, Kubernetes, Linux, Bash
 
-<h2 align="left">
-  I've been programming since 2022 and I’m always exploring new technologies.<br><br>
-  - 📚 Currently learning multiple programming languages and technologies listed below.<br>
-  - 🛡 Passionate about Cybersecurity.
-</h2>
+thompson@github:~$ cat about.txt
+I've been programming since 2022 and I'm always exploring new technologies.
+  - Currently learning multiple programming languages and technologies listed below.
+  - Passionate about Cybersecurity.
+```
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="60" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
-</div>
-
-###
+#### `$ ls ~/stack`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thompson0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=py,go,js,nodejs,express,postgres,mongodb,prisma,docker,kubernetes,linux,kali,bash&perline=13&theme=dark" alt="stack" />
 </div>
 
-###
+#### `$ ./streak --user thompson0`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-thompson-freitas-99903b322/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/champao" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=thompson0&locale=en&mode=daily&hide_border=false&border_radius=4&background=0D0D0D&border=8B1E2B&stroke=8B1E2B&ring=F5C542&fire=C0392B&currStreakNum=F5C542&sideNums=E6E6E6&currStreakLabel=F5C542&sideLabels=C0392B&dates=8B8B8B" height="150" alt="streak stats" />
 </div>
 
+#### `$ ls ~/links`
+
+<a href="https://www.linkedin.com/in/gabriel-thompson-freitas-99903b322/" target="_blank"><code>linkedin/</code></a>&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/champao" target="_blank"><code>tryhackme/</code></a>
